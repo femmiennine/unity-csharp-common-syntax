@@ -1,1 +1,1 @@
-# Unity's C# Commonly Used Syntax
+# Unity Commonly Used C# Syntax
